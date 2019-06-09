@@ -128,7 +128,13 @@
  > Soluție: [solutie.zip](./solutii-lab/solutie_lab8.zip)
  
  
-# Proiect
+# Proiect Seria 24
 ### [Link către pagina competiției](https://www.kaggle.com/c/ml-unibuc-2019-24)
 ### [Link pentru înscriere](https://www.kaggle.com/t/6fb65338657b4534a90a8be204a0086a)
+
+# Proiect Seria 23
+
+### [Link către pagina competiției](https://www.kaggle.com/c/ml-unibuc-2019-23)
+### [Link pentru înscriere](https://www.kaggle.com/t/d1952e556a8049ae9b969f38799bd5d6)
+
  
