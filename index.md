@@ -133,6 +133,6 @@
  
 # Notare Proiecte
 
-### [Note Seria 23](./Note/Note-proiect-24-2019.pdf)
+### [Note Seria 23](./Note/Note-proiect-23-2019.pdf)
 ### [Note Seria 24, Grupa 311, Reluare studii](./Note/Note-proiect-24-2019.pdf)
 
