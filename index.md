@@ -103,7 +103,7 @@
 
  > Modelul 'sac de cuvinte'
  > 
- > Regresia rigde
+ > Regresia Rigde
  >
  > Automated Essay Scoring: [Automated_Essay_Scoring.zip](./Data/Automated_Essay_Scoring/Data.zip)
  >
@@ -133,5 +133,6 @@
  
 # Notare Proiecte
 
+### [Note Seria 23](./Note/Note-proiect-24-2019.pdf)
 ### [Note Seria 24, Grupa 311, Reluare studii](./Note/Note-proiect-24-2019.pdf)
 
