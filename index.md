@@ -131,8 +131,4 @@
  >
  > Movie Review Data și puncte 3D: [Movie_Review_Data_3D_points.zip](./Data/Laboratorul_8/lab8_scripts_and_data.zip) 
  
-# Notare Proiecte
-
-### [Note Seria 23](./Note/Note-proiect-23-2019.pdf)
-### [Note Seria 24, Grupa 311, Reluare studii](./Note/Note-proiect-24-2019.pdf)
 
