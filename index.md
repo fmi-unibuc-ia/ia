@@ -10,7 +10,9 @@
 ### [Laboratorul 2](./Laboratoare/Laboratorul 2.pdf)
 
  > Introducere în Numpy
- 
+ >
  > Introducere în Matplotlib
+ >
+ > Date: [images.zip](./Data/Laboratorul_2/images.zip)
  
 
