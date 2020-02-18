@@ -14,6 +14,6 @@
  >
  > Introducere în Matplotlib
  >
- > Date: [images.zip](./Data/Laboratorul_2/images.zip)
+ > Date: [images.zip](./Data/images.zip)
  
 
