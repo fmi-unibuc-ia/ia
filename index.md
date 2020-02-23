@@ -20,6 +20,6 @@
 
  > Naive Bayes
  > 
- > Date: [MNIST_data_set.zip](./Data/data_MNIST.zip.zip)
+ > Date: [MNIST_data_set.zip](./Data/data_MNIST.zip)
  
 
