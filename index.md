@@ -16,4 +16,10 @@
  >
  > Date: [images.zip](./Data/images.zip)
  
+ ### [Laboratorul 3](./Laboratoare/Laboratorul 3.pdf)
+
+ > Naive Bayes
+ > 
+ > Date: [MNIST_data_set.zip](./Data/data_MNIST.zip.zip)
+ 
 
