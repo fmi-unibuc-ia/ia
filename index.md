@@ -1,6 +1,16 @@
 
 # Cursuri 
 
+### [Cursul 1](./Cursuri/Curs1.pptx)
+
+ > Sistemul de notare și prezentarea materiei
+ >
+ > Introducere în inteligența artificială
+ >
+ > Învățare automată
+ >
+ > Concepte de bază
+ 
 # Laboratoare 
 ### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
 ### [Instalare Python - Linux](./Laboratoare/Instalare Python cu Anaconda- Linux.pdf)
