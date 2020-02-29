@@ -33,3 +33,14 @@
  > Date: [MNIST_data_set.zip](./Data/data_MNIST.zip)
  
 
+### [Laboratorul 4](./Laboratoare/Laboratorul 4.pdf)
+
+ > Metoda celor mai apropiați vecini
+ 
+### [Laboratorul 5](./Laboratoare/Laboratorul 5.pdf)
+
+ > Normalizarea datelor
+ > 
+ > Mașini cu Vectori Suport  
+ >
+ > Bag Of Words 
