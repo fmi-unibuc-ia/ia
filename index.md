@@ -11,6 +11,20 @@
  >
  > Concepte de bază
  
+ ### [Cursul 2](./Cursuri/Curs2.pptx)
+  
+   > Concepte generale
+   >
+   > Clasificatorul Bayes Naiv
+   >
+   > Măsurarea performanței
+   
+ ### [Cursul 3](./Cursuri/Curs3.pptx)
+  
+   > Metoda celor mai apropiați vecini
+   >
+   > Blestemul dimensionalității
+
 # Laboratoare 
 ### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
 ### [Instalare Python - Linux](./Laboratoare/Instalare Python cu Anaconda- Linux.pdf)
