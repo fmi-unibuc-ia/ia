@@ -46,7 +46,7 @@
  > 
  > Date: [MNIST_data_set.zip](./Data/data_MNIST.zip)
  >
- > Date: [solutie_lab3.zip](./Laboratoare/solutie_lab3.zip)
+ > Soluție: [solutie_lab3.zip](./Laboratoare/solutie_lab3.zip)
  
 
 ### [Laboratorul 4](./Laboratoare/Laboratorul 4.pdf)
