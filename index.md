@@ -60,3 +60,5 @@
  > Mașini cu Vectori Suport  
  >
  > Bag Of Words 
+ > 
+ > lab5_cont_312 [lab5_cont_312.zip](./Laboratoare/lab5_cont_312.zip)
