@@ -52,6 +52,8 @@
 ### [Laboratorul 4](./Laboratoare/Laboratorul 4.pdf)
 
  > Metoda celor mai apropiați vecini
+ >
+ > Soluție: [solutie_lab4.zip](./Laboratoare/solutie_lab4.zip)
  
 ### [Laboratorul 5](./Laboratoare/Laboratorul 5.pdf)
 
