@@ -25,6 +25,14 @@
 >
 > Blestemul dimensionalității
 
+### [Cursul 4](./Cursuri/Curs4.pptx)
+
+ > Metode kernel
+ >
+ > Regresia Ridge
+ >
+ > Mașini cu Vectori Suport
+ 
 # Laboratoare 
 ### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
 ### [Instalare Python - Linux](./Laboratoare/Instalare Python cu Anaconda- Linux.pdf)
@@ -62,3 +70,7 @@
  > Mașini cu Vectori Suport  
  >
  > Bag Of Words 
+
+# Proiect Seriile 24 + 31
+### [Link către pagina competiției](https://www.kaggle.com/c/ml-unibuc-2020-1/)
+### [Link pentru înscriere](https://www.kaggle.com/t/8771a5aaab5042489eca53c74edb9c7b)
