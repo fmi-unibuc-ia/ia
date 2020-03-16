@@ -74,6 +74,14 @@
 ### [Laboratorul 6](./Laboratoare/Laboratorul 6.pdf)
 
  > Regresia liniară 
+ 
+### [Laboratorul 7](./Laboratoare/Laboratorul 7.pdf)
+
+ > Perceptronul
+ >
+ > Rețele neuronale
+ >
+ > Algoritmul coborârii pe gradient
 
 # Proiect Seriile 24 + 31
 ### [Link către pagina competiției](https://www.kaggle.com/c/ml-unibuc-2020-1/)
