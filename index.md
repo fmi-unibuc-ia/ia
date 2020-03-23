@@ -70,6 +70,8 @@
  > Mașini cu Vectori Suport  
  >
  > Bag Of Words 
+ >
+ > Soluție: [solutie_lab5.zip](./Laboratoare/solutie_lab5.zip)
 
 ### [Laboratorul 6](./Laboratoare/Laboratorul 6.pdf)
 
