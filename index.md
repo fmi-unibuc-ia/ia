@@ -33,21 +33,21 @@
  >
  > Mașini cu Vectori Suport
  
- ### [Cursul 5](./Cursuri/Curs5.pptx)
-  
-   > Optimizarea funcțiilor de pierdere
-   >
-   > Algoritmul coborârii pe gradient
-   >
-   > Cod: [code.zip](./Data/Curs5_code.zip)
-   
- ### [Cursul 6](./Cursuri/Curs6.pptx)
-  
-   > Rețele neuronale
-   >
-   > Concepte despre modele de învățare deep
-   >
-   > Cod: [code.zip](./Data/Curs6_code.zip)
+### [Cursul 5](./Cursuri/Curs5.pptx)
+
+  > Optimizarea funcțiilor de pierdere
+  >
+  > Algoritmul coborârii pe gradient
+  >
+  > Cod: [code.zip](./Data/Curs5_code.zip)
+
+### [Cursul 6](./Cursuri/Curs6.pptx)
+
+  > Rețele neuronale
+  >
+  > Concepte despre modele de învățare deep
+  >
+  > Cod: [code.zip](./Data/Curs6_code.zip)
    
 # Laboratoare 
 ### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
