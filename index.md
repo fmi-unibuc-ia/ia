@@ -93,7 +93,7 @@
 
  > Regresia liniară 
  >
- > Soluție: [solutie_lab5.zip](./Laboratoare/solutie_lab6.zip)
+ > Soluție: [solutie_lab6.zip](./Laboratoare/solutie_lab6.zip)
  
 ### [Laboratorul 7](./Laboratoare/Laboratorul 7.pdf)
 
