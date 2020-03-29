@@ -110,5 +110,5 @@
  > Antrenarea rețelelor neuronale în Scikit-learn
  
 # Proiect Seriile 24 + 31
-### [Link către pagina competiției](https://www.kaggle.com/c/ml-unibuc-2020-1/)
-### [Link pentru înscriere](https://www.kaggle.com/t/8771a5aaab5042489eca53c74edb9c7b)
+### [Link către pagina competiției](https://www.kaggle.com/c/ml-unibuc-2020-2/)
+### [Link pentru înscriere](https://www.kaggle.com/t/7c2043ffb9524685a706e54723837775)
