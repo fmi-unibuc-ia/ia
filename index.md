@@ -37,6 +37,8 @@
 ### [Laboratorul 4](./Laboratoare/Laboratorul 4.pdf)
 
  > Metoda celor mai apropiați vecini 
+ >
+ > Soluție: [solutie_lab4.zip](./Laboratoare/solutie_lab4.zip)
  
 ### [Laboratorul 5](./Laboratoare/Laboratorul 5.pdf)
 
@@ -45,3 +47,7 @@
  > Mașini cu Vectori Suport  
  >
  > Bag Of Words 
+ 
+ ### [Laboratorul 6](./Laboratoare/Laboratorul 6.pdf)
+
+ > Regresia liniară 
