@@ -48,6 +48,6 @@
  >
  > Bag Of Words 
  
- ### [Laboratorul 6](./Laboratoare/Laboratorul 6.pdf)
+### [Laboratorul 6](./Laboratoare/Laboratorul 6.pdf)
 
- > Regresia liniară 
+> Regresia liniară 
