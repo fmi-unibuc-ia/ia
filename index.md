@@ -73,3 +73,9 @@
 ### [Laboratorul 6](./Laboratoare/Laboratorul 6.pdf)
 
 > Regresia liniară 
+
+# Proiect Seria 23
+
+### [Link către pagina competiției](https://www.kaggle.com/c/ml-fmi-23-2020)
+
+### Pentru înscriere contactați profesorul de laborator.
