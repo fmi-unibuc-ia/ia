@@ -74,6 +74,20 @@
 
 > Regresia liniară 
 
+### [Laboratorul 7](./Laboratoare/Laboratorul 7.pdf)
+
+ > Perceptronul
+ >
+ > Rețele neuronale
+ >
+ > Algoritmul coborârii pe gradient
+ 
+### [Laboratorul 8](./Laboratoare/Laboratorul 8.pdf)
+
+ > Antrenarea perceptronul în Scikit-learn
+ >
+ > Antrenarea rețelelor neuronale în Scikit-learn
+
 # Proiect Seria 23
 
 ### [Link către pagina competiției](https://www.kaggle.com/c/ml-fmi-23-2020)
