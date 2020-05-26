@@ -33,6 +33,26 @@
   >
   > Mașini cu Vectori Suport
 
+### [Cursul 5](./Cursuri/Curs5.pptx)
+ 
+  > Optimizarea funcțiilor de pierdere
+  >
+  > Algoritmul coborârii pe gradient
+  >
+  > Cod: [code.zip](./Data/Curs5_code.zip)
+  
+### [Cursul 6](./Cursuri/Curs6.pptx)
+ 
+  > Rețele neuronale
+  >
+  > Concepte despre modele de învățare deep
+  >
+  > Cod: [code.zip](./Data/Curs6_code.zip)
+  
+### [Cursul 7](./Cursuri/Curs7.pptx)
+ 
+  > Rețele neuronale convoluționale
+  
 # Laboratoare 
 ### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
 ### [Instalare Python - Linux](./Laboratoare/Instalare Python cu Anaconda- Linux.pdf)
@@ -91,9 +111,3 @@
  > Antrenarea perceptronul în Scikit-learn
  >
  > Antrenarea rețelelor neuronale în Scikit-learn
-
-# Proiect Seria 23
-
-### [Link către pagina competiției](https://www.kaggle.com/c/ml-fmi-23-2020)
-
-### Pentru înscriere contactați profesorul de laborator.
