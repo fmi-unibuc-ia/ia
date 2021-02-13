@@ -13,10 +13,10 @@
  
   
 # Laboratoare 
-### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
-### [Instalare Python - Linux](./Laboratoare/Instalare Python cu Anaconda- Linux.pdf)
-### [Introducere în Python](./Laboratoare/Introducere-in-python.pdf) 
-### [Informații despre Anaconda, Jupyter și PyCharm](./Laboratoare/Anaconda_Jupyter_PyCharm.pdf) 
+#### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
+#### [Instalare Python - Linux](./Laboratoare/Instalare Python cu Anaconda- Linux.pdf)
+#### [Introducere în Python](./Laboratoare/Introducere-in-python.pdf) 
+#### [Informații despre Anaconda, Jupyter și PyCharm](./Laboratoare/Anaconda_Jupyter_PyCharm.pdf) 
  
 ### [Laboratorul 1](./Laboratoare/Laboratorul 1.pdf)
 
