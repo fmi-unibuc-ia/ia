@@ -32,3 +32,8 @@
  > Naive Bayes
  > 
  > Date: [MNIST_data_set.zip](./Data/data_MNIST.zip)
+ > 
+
+### [Laboratorul 3](./Laboratoare/Laboratorul 3.pdf)
+
+ > Metoda celor mai apropiați vecini  
