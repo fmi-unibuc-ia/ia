@@ -37,3 +37,12 @@
 ### [Laboratorul 3](./Laboratoare/Laboratorul 3.pdf)
 
  > Metoda celor mai apropiați vecini  
+ > 
+
+### [Laboratorul 4](./Laboratoare/Laboratorul 4.pdf)
+
+ > Normalizarea datelor
+ > 
+ > Mașini cu Vectori Suport  
+ >
+ > Bag Of Words 
