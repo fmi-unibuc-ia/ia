@@ -3,14 +3,27 @@
 
 ### [Cursul 1](./Cursuri/Curs1.pptx)
 
- > Sistemul de notare și prezentarea materiei
- >
- > Introducere în inteligența artificială
- >
- > Învățare automată
- >
- > Concepte de bază
+  > Sistemul de notare și prezentarea materiei
+  >
+  > Introducere în inteligența artificială
+  >
+  > Învățare automată
+  >
+  > Concepte de bază
  
+ ### [Cursul 2](./Cursuri/Curs2.pptx)
+  
+   > Concepte generale
+   >
+   > Clasificatorul Bayes Naiv
+   >
+   > Măsurarea performanței
+   
+ ### [Cursul 3](./Cursuri/Curs3.pptx)
+  
+   > Metoda celor mai apropiați vecini
+   >
+   > Blestemul dimensionalității
   
 # Laboratoare 
 #### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
@@ -43,6 +56,6 @@
 
  > Normalizarea datelor
  > 
- > Mașini cu Vectori Suport  
+ > Clasificatorul cu Vectori Suport  
  >
- > Bag Of Words 
+ > Bag of Words 
