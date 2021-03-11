@@ -11,7 +11,7 @@
   >
   > Concepte de bază
  
- ### [Cursul 2](./Cursuri/Curs2.pptx)
+### [Cursul 2](./Cursuri/Curs2.pptx)
   
    > Concepte generale
    >
@@ -19,7 +19,7 @@
    >
    > Măsurarea performanței
    
- ### [Cursul 3](./Cursuri/Curs3.pptx)
+### [Cursul 3](./Cursuri/Curs3.pptx)
   
    > Metoda celor mai apropiați vecini
    >
