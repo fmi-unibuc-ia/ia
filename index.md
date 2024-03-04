@@ -25,7 +25,7 @@
  >
  > Date: [images.zip](./Data/images.zip)
  
- ### [Laboratorul 2](./Laboratoare/Laboratorul 2.pdf)
+### [Laboratorul 2](./Laboratoare/Laboratorul 2.pdf)
 
  > Naive Bayes
  > 
