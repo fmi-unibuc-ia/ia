@@ -11,7 +11,7 @@
   >
   > Concepte de bază
   
-  ### [Cursul 2](./Cursuri/Curs2.pptx)
+### [Cursul 2](./Cursuri/Curs2.pptx)
   
    > Concepte generale
    >
