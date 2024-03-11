@@ -10,6 +10,14 @@
   > Învățare automată
   >
   > Concepte de bază
+  
+  ### [Cursul 2](./Cursuri/Curs2.pptx)
+  
+   > Concepte generale
+   >
+   > Clasificatorul Bayes Naiv
+   >
+   > Măsurarea performanței
 
 # Laboratoare 
 #### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
@@ -30,3 +38,8 @@
  > Naive Bayes
  > 
  > Date: [MNIST_data_set.zip](./Data/data_MNIST.zip)
+
+### [Laboratorul 3](./Laboratoare/Laboratorul 3.pdf)
+
+ > Metoda celor mai apropiați vecini
+ 
