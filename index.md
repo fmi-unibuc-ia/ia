@@ -19,6 +19,12 @@
    >
    > Măsurarea performanței
 
+### [Cursul 3](./Cursuri/Curs3.pptx)
+  
+   > Metoda celor mai apropiați vecini
+   >
+   > Blestemul dimensionalității
+   
 # Laboratoare 
 #### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
 #### [Instalare Python - Linux](./Laboratoare/Instalare Python cu Anaconda- Linux.pdf)
@@ -43,3 +49,11 @@
 
  > Metoda celor mai apropiați vecini
  
+### [Laboratorul 4](./Laboratoare/Laboratorul 4.pdf)
+
+ > Normalizarea datelor
+ > 
+ > Clasificatorul cu Vectori Suport  
+ >
+ > Bag of Words
+
