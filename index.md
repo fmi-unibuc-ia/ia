@@ -24,7 +24,16 @@
    > Metoda celor mai apropiați vecini
    >
    > Blestemul dimensionalității
-   
+
+### [Cursul 4](./Cursuri/Curs4.pptx)
+ 
+  > Metode kernel
+  >
+  > Regresia Ridge
+  >
+  > Clasificatorul cu Vectori Suport
+
+
 # Laboratoare 
 #### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
 #### [Instalare Python - Linux](./Laboratoare/Instalare Python cu Anaconda- Linux.pdf)
@@ -57,3 +66,17 @@
  >
  > Bag of Words
 
+### [Laboratorul 5](./Laboratoare/Laboratorul 5.pdf)
+
+> Regresia liniară 
+>  
+> Regresia Ridge
+
+### [Laboratorul 6](./Laboratoare/Laboratorul 6.pdf)
+
+ > Perceptronul
+ >
+ > Rețele neuronale
+ >
+ > Algoritmul coborârii pe gradient
+ 
