@@ -19,6 +19,28 @@
    >
    > Măsurarea performanței 
 
+### [Cursul 3](./Cursuri/Curs3.pptx)
+  
+   > Metoda celor mai apropiați vecini
+   >
+   > Blestemul dimensionalității
+
+### [Cursul 4](./Cursuri/Curs4.pptx)
+ 
+  > Metode kernel
+  >
+  > Regresia Ridge
+  >
+  > Clasificatorul cu Vectori Suport
+  
+### [Cursul 5](./Cursuri/Curs5.pptx)
+ 
+  > Optimizarea funcțiilor de pierdere
+  >
+  > Algoritmul coborârii pe gradient
+  >
+  > Cod: [code.zip](./Data/Curs5_code.zip)
+
 # Laboratoare 
 #### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
 #### [Instalare Python - Linux](./Laboratoare/Instalare Python cu Anaconda- Linux.pdf)
@@ -38,4 +60,33 @@
  > Naive Bayes
  > 
  > Date: [MNIST_data_set.zip](./Data/data_MNIST.zip)
+
+### [Laboratorul 3](./Laboratoare/Laboratorul 3.pdf)
+
+ > Metoda celor mai apropiați vecini
+
+### [Laboratorul 4](./Laboratoare/Laboratorul 4.pdf)
+
+ > Normalizarea datelor
+ > 
+ > Clasificatorul cu Vectori Suport  
+ >
+ > Bag of Words
+
+### [Laboratorul 5](./Laboratoare/Laboratorul 5.pdf)
+
+> Regresia liniară 
+>  
+> Regresia Ridge
+
+### [Laboratorul 6](./Laboratoare/Laboratorul 6.pdf)
+
+ > Perceptronul
+ >
+ > Rețele neuronale
+ >
+ > Algoritmul coborârii pe gradient
+ 
+
+
  
