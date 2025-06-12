@@ -41,6 +41,14 @@
   >
   > Cod: [code.zip](./Data/Curs5_code.zip)
 
+### [Cursul 6](./Cursuri/Curs6.pptx)
+ 
+  > Rețele neuronale
+  >
+  > Concepte despre modele de învățare deep
+  >
+  > Cod: [code.zip](./Data/Curs6_code.zip)
+  
 # Laboratoare 
 #### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
 #### [Instalare Python - Linux](./Laboratoare/Instalare Python cu Anaconda- Linux.pdf)
@@ -75,9 +83,9 @@
 
 ### [Laboratorul 5](./Laboratoare/Laboratorul 5.pdf)
 
-> Regresia liniară 
->  
-> Regresia Ridge
+ > Regresia liniară 
+ >  
+ > Regresia Ridge
 
 ### [Laboratorul 6](./Laboratoare/Laboratorul 6.pdf)
 
@@ -87,6 +95,27 @@
  >
  > Algoritmul coborârii pe gradient
  
+### [Laboratorul 7](./Laboratoare/Laboratorul 7.pdf)
 
+ > Antrenarea perceptronului în Scikit-learn
+ >
+ > Antrenarea rețelelor neuronale în Scikit-learn
+
+# Seminarii
+
+ ### [Seminar 1](./Seminarii/Seminar1.pdf)
+
+ > Naive Bayes
+ > 
+ > Metoda celor mai apropiați vecini
+
+ ### [Seminar 2](./Seminarii/Seminar2.pdf)
+
+ > Metode kernel
+ 
+ ### [Seminar 3](./Seminarii/Seminar3.pdf)
+
+ > Rețele neuronale
+ 
 
  
