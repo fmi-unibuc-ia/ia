@@ -103,17 +103,17 @@
 
 # Seminarii
 
- ### [Seminar 1](./Seminarii/Seminar1.pdf)
+### [Seminar 1](./Seminarii/Seminar1.pdf)
 
  > Naive Bayes
  > 
  > Metoda celor mai apropiați vecini
 
- ### [Seminar 2](./Seminarii/Seminar2.pdf)
+### [Seminar 2](./Seminarii/Seminar2.pdf)
 
  > Metode kernel
  
- ### [Seminar 3](./Seminarii/Seminar3.pdf)
+### [Seminar 3](./Seminarii/Seminar3.pdf)
 
  > Rețele neuronale
  
